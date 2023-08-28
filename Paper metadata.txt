@@ -1,0 +1,33 @@
+A Real Time Speech to Text Conversion Technique for Bengali Language
+
+Published in:  2018 International Conference on Computer, Communication, Chemical, Material and Electronic Engineering (IC4ME2)
+
+Citation : 13, Full text views: 398
+
+
+
+
+Continuous Bengali Speech Recognition Based On Deep Neural Network
+
+Published in:  2019 International Conference on Electrical, Computer, Communication Engineering (IC4ME2)
+
+Citation : 11, Full text views: 131
+
+
+
+
+
+Sequence-Based Multi-Lingual Low Resource Speech Recognition
+
+Published in:  2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+Citation : 32, Full text views: 510
+
+
+
+
+Bengali speech recognition: A double layered LSTM-RNN approach
+
+Published in:  2017 20th International Conference of Computer and Information Technology (ICCIT)
+
+Citation : 23, Full text views: 488
